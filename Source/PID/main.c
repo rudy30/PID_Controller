@@ -13,7 +13,8 @@
  * \author               Atmel Corporation: http://www.atmel.com \n
  *                       Support email: avr@atmel.com
  *
-
+дописали коментарі
+*/
  *****************************************************************************/
 
 #include <inavr.h>
